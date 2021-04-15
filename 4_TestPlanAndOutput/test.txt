@@ -1,0 +1,6 @@
+The project is designed for selection of microcontrollers that can be used for various projects
+1.Checking for opertaions that arenot included in programs.
+  a.When processor frequency is asked as input to the user, only frequency should be given as input in Mhz manner.
+  b.same goes for other inputs like Pins and Ram
+2.Checking wether all the operations are performed correctly when given input
+3.Chechking all the operations modes are working fine.

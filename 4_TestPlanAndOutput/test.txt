@@ -4,3 +4,4 @@ The project is designed for selection of microcontrollers that can be used for v
   b.same goes for other inputs like Pins and Ram
 2.Checking wether all the operations are performed correctly when given input
 3.Chechking all the operations modes are working fine.
+4.All the controllers with given specs are processed and then recommeneded to the user
